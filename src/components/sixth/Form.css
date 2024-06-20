@@ -1,0 +1,9 @@
+body{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #7200ff 33%, #a80aaa 100%);
+    color: white;
+}
+form{
+    background-color: #3d95ff;
+    background-image: linear-gradient(135deg, #3d95ff 0%, #996bff 46%, #e67eff 100%);    
+}

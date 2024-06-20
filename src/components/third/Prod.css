@@ -1,0 +1,25 @@
+*{
+    font-size: 1em ;
+    background-image: -webkit-linear-gradient(to right,rgb(0, 195, 255),rgb(0, 187, 255));
+}
+.card:hover{
+    border: 2px solid rgb(143, 31, 255) ;
+}
+.card{
+    background-color: rgb(127, 234, 255);
+}
+h4{
+    text-align: end; 
+}
+.card-img-top{
+    border: 2px solid rgb(31, 132, 255) ;
+    height: 20rem;
+}
+.card-body{
+    background-color: rgb(255, 249, 243);
+    height: 10rem;
+}
+.card-footer{
+    background-color: rgb(255, 249, 243);
+    height: 5rem;
+}

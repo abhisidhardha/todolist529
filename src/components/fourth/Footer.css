@@ -1,0 +1,9 @@
+.footer{
+    background: linear-gradient( to top right,#7a66ea, #584ba2);
+}
+p{
+    color: white;
+}
+.footer img{
+    width: 25px;
+}

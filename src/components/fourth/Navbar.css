@@ -1,0 +1,12 @@
+.navbar{
+    background : linear-gradient( to top right,#7a66ea, #584ba2);
+}
+img{
+    width: 75px;
+}
+.nav{
+    color: white;
+}
+.nav:hover{
+    background-color: #6600ff2f;
+}

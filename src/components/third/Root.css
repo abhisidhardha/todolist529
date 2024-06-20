@@ -1,0 +1,14 @@
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1em 10em 1em;
+    align-items: stretch;
+}
+.child{
+    width: 30% ;
+    max-height: 30% ;
+    margin: 1rem;
+    
+}
